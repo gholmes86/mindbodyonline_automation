@@ -1,0 +1,73 @@
+2018-11-16 11:23:06,125 [main] INFO helpers.Log - Version:name: emr-amsa
+version: 26.40.3
+details: 26.40.3 details [26.40.3-ra39d386-1541703154346]
+
+2018-11-18 00:39:10,803 [main] INFO helpers.Log - Logging in with Mindbody User
+2018-11-18 00:40:51,167 [main] INFO helpers.Log - WebDriverException getMessage-Expected condition failed: waiting for presence of element located by: By.id: userName (tried for 100 second(s) with 500 milliseconds interval)
+2018-11-18 00:40:51,171 [main] INFO helpers.Log - WebDriverException done
+2018-11-18 01:06:52,253 [main] INFO helpers.Log - Logging in with Mindbody User
+2018-11-18 02:08:03,472 [main] INFO helpers.Log - Logging in with Mindbody User
+2018-11-18 02:09:06,496 [main] INFO helpers.Log - Logging in with Mindbody User
+2018-11-18 02:10:23,970 [main] INFO helpers.Log - Logging in with Mindbody User
+2018-11-18 02:10:28,895 [main] INFO helpers.Log - USER SUCCESSFULLY LOGGED IN
+2018-11-18 02:10:28,897 [main] INFO helpers.Log - Homepage displays
+2018-11-18 02:10:31,965 [main] INFO helpers.Log - Verify Dashboard subtab is selected
+2018-11-18 02:11:26,143 [main] INFO helpers.Log - Logging in with Mindbody User
+2018-11-18 02:11:32,024 [main] INFO helpers.Log - USER SUCCESSFULLY LOGGED IN
+2018-11-18 02:11:32,029 [main] INFO helpers.Log - Homepage displays
+2018-11-18 02:11:35,056 [main] INFO helpers.Log - Verify Dashboard subtab is selected
+2018-11-18 02:12:55,714 [main] INFO helpers.Log - Logging in with Mindbody User
+2018-11-18 02:13:00,428 [main] INFO helpers.Log - USER SUCCESSFULLY LOGGED IN
+2018-11-18 02:13:00,430 [main] INFO helpers.Log - Homepage displays
+2018-11-18 02:13:03,925 [main] INFO helpers.Log - Verify Dashboard subtab is selected
+2018-11-18 02:13:04,329 [main] INFO helpers.Log - Selecting Services and Pricing subtab
+2018-11-18 02:13:04,775 [main] INFO helpers.Log - Verifying classes page displays
+2018-11-18 02:15:11,524 [main] INFO helpers.Log - Logging in with Mindbody User
+2018-11-18 02:15:17,542 [main] INFO helpers.Log - USER SUCCESSFULLY LOGGED IN
+2018-11-18 02:15:17,549 [main] INFO helpers.Log - Homepage displays
+2018-11-18 02:15:24,191 [main] INFO helpers.Log - Verify Dashboard subtab is selected
+2018-11-18 02:15:24,800 [main] INFO helpers.Log - Selecting Services and Pricing subtab
+2018-11-18 02:15:25,108 [main] INFO helpers.Log - Verifying classes page displays
+2018-11-18 02:18:09,229 [main] INFO helpers.Log - Logging in with Mindbody User
+2018-11-18 02:18:16,524 [main] INFO helpers.Log - USER SUCCESSFULLY LOGGED IN
+2018-11-18 02:18:16,536 [main] INFO helpers.Log - Homepage displays
+2018-11-18 02:18:24,881 [main] INFO helpers.Log - Verify Dashboard subtab is selected
+2018-11-18 02:18:25,097 [main] INFO helpers.Log - Selecting Services and Pricing subtab
+2018-11-18 02:18:25,434 [main] INFO helpers.Log - Verifying classes page displays
+2018-11-18 02:18:33,504 [main] INFO helpers.Log - Verifying Classes link is displayed
+2018-11-18 02:18:43,502 [main] INFO helpers.Log - Verifying Class Schedule Displayed
+2018-11-18 23:24:03,914 [main] INFO helpers.Log - Logging in with Mindbody User
+2018-11-18 23:25:02,945 [main] INFO helpers.Log - Logging in with Mindbody User
+2018-11-18 23:25:39,739 [main] INFO helpers.Log - Logging in with Mindbody User
+2018-11-18 23:26:20,711 [main] INFO helpers.Log - Logging in with Mindbody User
+2018-11-18 23:26:38,012 [main] INFO helpers.Log - USER SUCCESSFULLY LOGGED IN
+2018-11-18 23:26:38,014 [main] INFO helpers.Log - Homepage displays
+2018-11-18 23:26:40,558 [main] INFO helpers.Log - Verify Dashboard subtab is selected
+2018-11-18 23:26:40,631 [main] INFO helpers.Log - Selecting Services and Pricing subtab
+2018-11-18 23:26:40,811 [main] INFO helpers.Log - Verifying classes page displays
+2018-11-18 23:26:48,158 [main] INFO helpers.Log - Verifying Classes link is displayed
+2018-11-18 23:26:53,585 [main] INFO helpers.Log - Verifying Class Schedule Displayed
+2018-11-18 23:27:07,426 [main] INFO helpers.Log - Logging in with Mindbody User
+2018-11-18 23:27:12,111 [main] INFO helpers.Log - USER SUCCESSFULLY LOGGED IN
+2018-11-18 23:27:12,114 [main] INFO helpers.Log - Homepage displays
+2018-11-18 23:27:15,989 [main] INFO helpers.Log - Verify Dashboard subtab is selected
+2018-11-18 23:27:16,067 [main] INFO helpers.Log - Selecting Services and Pricing subtab
+2018-11-18 23:27:16,462 [main] INFO helpers.Log - Verifying classes page displays
+2018-11-18 23:27:18,916 [main] INFO helpers.Log - Verifying Classes link is displayed
+2018-11-18 23:27:29,168 [main] INFO helpers.Log - Verifying Class Schedule Displayed
+2018-11-18 23:27:46,070 [main] INFO helpers.Log - Logging in with Mindbody User
+2018-11-18 23:27:50,693 [main] INFO helpers.Log - USER SUCCESSFULLY LOGGED IN
+2018-11-18 23:27:50,696 [main] INFO helpers.Log - Homepage displays
+2018-11-18 23:27:54,154 [main] INFO helpers.Log - Verify Dashboard subtab is selected
+2018-11-18 23:27:54,603 [main] INFO helpers.Log - Selecting Services and Pricing subtab
+2018-11-18 23:27:54,876 [main] INFO helpers.Log - Verifying classes page displays
+2018-11-18 23:27:59,655 [main] INFO helpers.Log - Verifying Classes link is displayed
+2018-11-18 23:28:10,052 [main] INFO helpers.Log - Verifying Class Schedule Displayed
+2018-11-18 23:34:10,925 [main] INFO helpers.Log - Logging in with Mindbody User
+2018-11-18 23:34:15,554 [main] INFO helpers.Log - USER SUCCESSFULLY LOGGED IN
+2018-11-18 23:34:15,556 [main] INFO helpers.Log - Homepage displays
+2018-11-18 23:34:18,954 [main] INFO helpers.Log - Verify Dashboard subtab is selected
+2018-11-18 23:34:19,009 [main] INFO helpers.Log - Selecting Services and Pricing subtab
+2018-11-18 23:34:19,128 [main] INFO helpers.Log - Verifying classes page displays
+2018-11-18 23:34:23,544 [main] INFO helpers.Log - Verifying Classes link is displayed
+2018-11-18 23:34:29,552 [main] INFO helpers.Log - Verifying Class Schedule Displayed
